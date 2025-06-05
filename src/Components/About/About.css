@@ -110,6 +110,11 @@
     transition: 0.5s;
 }
 
+.hack{
+    width: 500px;
+    height: 700px;
+}
+
 @media(max-width:768px){
     .about{
         gap: 80px;
